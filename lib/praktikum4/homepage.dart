@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:praktikum/praktikum5/home.dart';
-import 'package:praktikum/praktikum5/searchpage.dart';
-import 'package:praktikum/praktikum5/reelspage.dart';
-import 'package:praktikum/praktikum5/profilepage.dart';
+import 'package:praktikum/praktikum4/home.dart';
+import 'package:praktikum/praktikum4/searchpage.dart';
+import 'package:praktikum/praktikum4/reelspage.dart';
+import 'package:praktikum/praktikum4/profilepage.dart';
 
 class homepage extends StatefulWidget {
   const homepage({super.key});
