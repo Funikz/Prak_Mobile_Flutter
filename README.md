@@ -1,4 +1,4 @@
-# Praktikum Mobile - Teknik Informatika UIN Maulana Malik Ibrahim Malang
+# Praktikum Mobile Programming - Teknik Informatika UIN Maulana Malik Ibrahim Malang
 
 -> Cek tampilan programnya setiap praktikum, di void main pada setiap filenya
 
