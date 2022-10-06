@@ -19,6 +19,7 @@ class Drawer_page extends StatelessWidget {
                 backgroundImage: NetworkImage(
                     'https://pbs.twimg.com/media/FMnmFldVIAMFNde?format=jpg&name=small'),
                 child: GestureDetector(
+                  // jika di klik pada gambar bisa pindah ke halaman lain
                   onTap: () {
                     Navigator.push(
                       context,
